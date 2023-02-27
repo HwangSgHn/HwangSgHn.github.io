@@ -21,11 +21,13 @@
 title: Hwang's homepage
 email: 333dolphin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  What i have studied
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  Write here what i have studied
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  HwangSgHn
+
+highlighter-theme: monokai //you can change your syntax color scheme.
+date_format: "%Y-%M-%D" //and date format.
 
 # Build settings
 theme: minima
