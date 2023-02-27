@@ -1,0 +1,18 @@
+---
+layout: post
+title: "JSP&MVC"
+date: 2023-02-28 00:00:00 +0900
+categories: jekyll update
+---
+
+JSP (JAVA SERVER PAGES)
+
+html 과 <% %> 등 안의 자바 코드를 통해 동적 웹페이지를 만드는 웹 어플리케이션 도구
+
+MVC (Model View Controller)
+
+작업을 나눈 것. Controller를 통해 작업을 수행
+
+Model - DB 작업 등
+
+View - 사용자에게 보여주는
